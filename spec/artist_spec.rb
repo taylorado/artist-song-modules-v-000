@@ -1,5 +1,5 @@
-#require_relative './spec_helper'
-require_relative 'spec_helper.rb'
+require_relative './spec_helper'
+
 
 describe Artist do
   before(:each) do
